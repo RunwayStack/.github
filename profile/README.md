@@ -35,7 +35,7 @@ Runway Stack is a suite of open-source, cloud-ready backend microservices design
 
 Each service is designed to work independently or together. Check individual service docs for quick start guides and APIs:
 
-- [Stow Documentation](https://github.com/RunwayStack/Stow)
+- [Stow Documentation](https://docs.runwaystack.com/stow)
 - [Tower Documentation]()
 - [Clearance Documentation]()
 - [Squawk Documentation]()
